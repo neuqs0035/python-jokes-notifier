@@ -2,8 +2,6 @@
 
 🐍✨ Python script to show a  joke notification every 2 hours! 😄🕒
 
-Python script for automatic weather notifications every 2 hours based on your location. 🌦️📧
-
 ## Overview
 
 The "Joke Notifier" Python script is a delightful application designed to sprinkle your day with laughter! 🎉 It brings you a regular dose of humor through scheduled notifications containing random jokes

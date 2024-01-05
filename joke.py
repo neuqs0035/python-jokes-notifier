@@ -9,6 +9,6 @@ while True:
     if response.status_code == 200:
         data = response.json()
         joke = data[0]['joke']
-        notification.notify("Daily Jokes",joke)
+        notification.notify("Daily Jokes",joke,app_icon = "joke.ico")
         sleep(7200)
    
